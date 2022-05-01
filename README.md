@@ -19,7 +19,7 @@ The summary includes total rides, drivers and fares, as well as avergae fare per
  -  Suburban cities start slow during the first week of January and picks up during the rest of the month. There is a noticable decline in the beginning of April that does not last since it picks up the rest of the month. 
  -  Rural cities has it's highest demand in the first days of April. 
  
- ![Alt text](https://github.com/Jimena-QM/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.PNG "Total Fare by City Type Graph") 
+ ![Alt text](https://github.com/Jimena-QM/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png "Total Fare by City Type Graph") 
 
 
 
