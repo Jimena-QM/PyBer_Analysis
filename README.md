@@ -13,7 +13,7 @@ The summary includes total rides, drivers and fares, as well as avergae fare per
 
  ![Alt text](https://github.com/Jimena-QM/PyBer_Analysis/blob/main/analysis/ride_sharing_summary.PNG "PyBer Ride-Sharing Summary by City Type")
  
- 2. Weekly Trend of total fare by city type
+ 2. Weekly Trend of total fare by city type from January to April 2019
  -  At the end of February all three city types have an increase in fares.
  -  Urban cities has a slow start in January and mid February, has a high variability during March and stabilizes in April.
  -  Suburban cities start slow during the first week of January and picks up during the rest of the month. There is a noticable decline in the beginning of April that does not last since it picks up the rest of the month. 
