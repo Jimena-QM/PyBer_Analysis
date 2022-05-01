@@ -26,12 +26,11 @@ The summary includes total rides, drivers and fares, as well as avergae fare per
 
 
 ## Summary
-Based on the analysis above, the business recommencations are: 
+Based on the analysis above, the business recommendations are: 
 
-- If the focus is increasing profit while keeping the current drivers and riders, during the peak days of each city type PyBer may consider increasing the fare price by a relatively unoticable percentage to the rider. To apply this increase, it may be useful to first understand if this trend is constant over the years and if the number of rides also increase. 
+- If the focus is increasing profit while keeping the current drivers and riders, during the peak days or weeks of each city type PyBer may consider increasing the fare price by a relatively unoticable percentage to the rider. To apply this increase, it may be useful to first understand if this trend is constant over the years and if the number of rides also increase. 
 - Investing in additional drivers in rural and suburban areas will expand the market and possibly bring more riders. Collecting the data of attempts by riders can give more light into the number of drivers needed to cover the demand.
 - Knowing the number of cancelled rides due to lack of drivers can give further insight if drivers are needed or if the focus should be on marketing PyBer to increase the number of customers. 
-- 
 
 
 
